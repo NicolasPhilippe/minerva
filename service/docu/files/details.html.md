@@ -1,7 +1,7 @@
 ---
 title: 'First doc'
-type: 'test'
-service: 'minerva'
+type: 'Details'
+service: 'Minerva'
 ---
 
 This is a first documentation.
