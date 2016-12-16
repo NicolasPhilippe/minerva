@@ -1,5 +1,5 @@
 ---
-title: 'Full Story'
+title: 'First doc'
 type: 'Details'
 service: 'Minerva'
 ---
